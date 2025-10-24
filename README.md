@@ -36,13 +36,14 @@ This project identifies the gaps and proposes a **Salesforce-native automated re
 
 ---
 
+
 ## 🔁 Key Features
 
 - **Customizable Reminder Frequency** per Sales Rep (default 7 days)
 - **Automated Salesforce Flows** for inactivity alerts
 - **Validation Rules** to ensure data accuracy
 - **Interactive Dashboards** for performance tracking
-- **Improved Forecast Reliability** (from 60% → 85%)
+- **Improved data accuracy and forecast reliability by approximately 25% through automation, validation rules, and dynamic dashboards.**
 
 ---
 
@@ -69,7 +70,8 @@ This project identifies the gaps and proposes a **Salesforce-native automated re
 ## 📈 Business Value
 
 - Saves ~2 hours per rep weekly  
-- 25–30% improvement in forecast accuracy  
+- Approximately 25% improvement in data accuracy and forecast reliability
+- Strengthened accountability and improved decision-making through timely updates 
 - Increases Salesforce adoption & accountability  
 - Provides real-time management insights  
 
